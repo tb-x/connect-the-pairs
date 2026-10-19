@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#b0477a"/>
+  <rect x="56" y="56" width="400" height="400" rx="28" fill="#fff"/>
+  <path d="M156 56V456M256 56V456M356 56V456M56 156H456M56 256H456M56 356H456" fill="none" stroke="#aab1c0" stroke-width="5"/>
+  <g fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M106 106V406H306" stroke="#e0533d"/>
+    <path d="M206 106H406V406" stroke="#2f7de1"/>
+    <path d="M206 206H306V306H206" stroke="#2fa34a"/>
+  </g>
+  <g fill="#fff" stroke="#1f2a44" stroke-width="8" stroke-linejoin="round">
+    <path transform="translate(106 106) scale(.72)" d="M0 40C-30 18-46 2-46-16-46-32-34-42-22-42-10-42-3-35 0-27 3-35 10-42 22-42 34-42 46-32 46-16 46 2 30 18 0 40z"/>
+    <path transform="translate(306 406) scale(.72)" d="M0 40C-30 18-46 2-46-16-46-32-34-42-22-42-10-42-3-35 0-27 3-35 10-42 22-42 34-42 46-32 46-16 46 2 30 18 0 40z"/>
+    <path transform="translate(206 106) scale(.72)" d="M0 -44L11.8 -12.2L45.7 -10.8L19 10.2L28.2 42.8L0 24L-28.2 42.8L-19 10.2L-45.7 -10.8L-11.8 -12.2z"/>
+    <path transform="translate(406 406) scale(.72)" d="M0 -44L11.8 -12.2L45.7 -10.8L19 10.2L28.2 42.8L0 24L-28.2 42.8L-19 10.2L-45.7 -10.8L-11.8 -12.2z"/>
+    <circle cx="206" cy="206" r="27"/>
+    <circle cx="206" cy="306" r="27"/>
+  </g>
+</svg>
